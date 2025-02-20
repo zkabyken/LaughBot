@@ -16,7 +16,7 @@ export default function ChatInput({ onSend }) {
                 type="text"
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
-                placeholder="Type your comedy prompt..."
+                placeholder="Type something you want to make fun of ..."
                 style={{ flex: 1, padding: '0.5rem', fontSize: '1rem' }}
             />
             <button type="submit" style={{ padding: '0.5rem 1rem', fontSize: '1rem' }}>
