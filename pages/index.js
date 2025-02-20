@@ -68,6 +68,9 @@ export default function Home() {
                 ))}
             </div>
             <ChatInput onSend={handleSend} />
+            <footer style={{ marginTop: '2rem', color: '#888', fontSize: '0.9rem' }}>
+                Made with ❤️ by Zhalyn Kabyken
+            </footer>
         </div>
     );
 }
