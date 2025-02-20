@@ -35,6 +35,7 @@ LaughBot is a chat app built with [Next.js](https://nextjs.org/) that leverages 
 
    ```bash
    npm run dev
+   ```
 
    The application should now be accessible locally at http://localhost:3000.
 
