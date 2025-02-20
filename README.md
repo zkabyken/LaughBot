@@ -26,13 +26,16 @@ LaughBot is a chat app built with [Next.js](https://nextjs.org/) that leverages 
 
     Install all required dependencies using npm:
 
-   ```npm install
+   ```bash
+   npm install
 
 3. **Start the Development Server**
 
     Start the development server with:
 
-   ```npm run de
+   ```bash
+   npm run dev
+   ```
 
    The application should now be accessible locally at http://localhost:3000.
 
