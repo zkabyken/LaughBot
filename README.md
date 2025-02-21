@@ -1,6 +1,6 @@
 # LaughBot Comedy Chat
 
-LaughBot is a chat app built with [Next.js](https://nextjs.org/) that leverages [Mistral AI](https://mistral.ai/) to generate comedy-focused responses.
+LaughBot is a chat app built with [Next.js](https://nextjs.org/) that leverages [Mistral AI](https://mistral.ai/) to generate humorous responses.
 
 ## Features
 
